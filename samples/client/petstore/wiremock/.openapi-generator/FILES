@@ -1,0 +1,4 @@
+.openapi-generator-ignore
+src/main/java/invalidPackageName/PetWireMockClient.java
+src/main/java/invalidPackageName/StoreWireMockClient.java
+src/main/java/invalidPackageName/UserWireMockClient.java
